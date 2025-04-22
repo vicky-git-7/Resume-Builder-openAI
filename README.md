@@ -18,5 +18,9 @@ A smart resume builder that leverages OpenAI's language model to help users gene
 
   🙋‍♂️ Author
   vignesh K
+  
   B.Tech - Information Technology
+  
   GitHub:@vicky-git-7
+
+  <!-- Uploading "Screenshot 2025-04-22 144007.png"... -->
